@@ -53,7 +53,7 @@
     <string name="result_share">Поделиться</string>
     <string name="result_open_in_browser">Открыть в браузер</string>
     <string name="skip_loading">Пропустить загрузку</string>
-    <string name="type_watching">Смотрю</string>
+    <string name="type_watching">Просмотр</string>
     <string name="type_on_hold">Приостановленно</string>
     <string name="type_completed">Завершено</string>
     <string name="type_dropped">Брошенный</string>
@@ -279,7 +279,7 @@
     <string name="use_system_brightness_settings_des">Используйте яркость системы в проигрывателе приложения вместо темного наложения</string>
     <string name="episode_sync_settings">Обновить состояние хода просмотра</string>
     <string name="backup_success">Данные сохранены</string>
-    <string name="advanced_search_des">Дает вам результаты поиска, разделенные по провайдеру</string>
+    <string name="advanced_search_des">Показывает результаты поиска, разделенные по провайдеру</string>
     <string name="uprereleases_settings_des">Поиск предварительных обновлений вместо полных выпусков</string>
     <string name="redo_setup_process">Повторить процесс настройки</string>
     <string name="no_chromecast_support_toast">Этот провайдер не поддерживает Chromecast</string>
